@@ -1,0 +1,9 @@
+{
+    "name": "Durna",
+    "scopeName": "source.json",
+    "patterns": [],
+    "repository": {},
+    "fileTypes": [
+        "durna"
+    ]
+}

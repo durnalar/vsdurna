@@ -1,0 +1,40 @@
+[
+    {
+        "name": "SIN",
+        "description": "Return the sine of x degrees.",
+        "inputs": [
+            {
+                "name": "to",
+                "type": "string",
+                "required": true,
+                "description": ""
+            },
+            {
+                "name": "subject",
+                "type": "string",
+                "required": false,
+                "description": ""
+            }
+        ],
+        "output": {
+            "type": "float",
+            "description": "Return the sine of x degrees."
+        }
+    },
+    {
+        "name": "getUser",
+        "description": "",
+        "inputs": [
+            {
+                "name": "id",
+                "type": "int",
+                "required": true,
+                "description": ""
+            }
+        ],
+        "output": {
+            "type": "User",
+            "description": ""
+        }
+    }
+]
